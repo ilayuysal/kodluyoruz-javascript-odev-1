@@ -1,1 +1,1 @@
-# kodluyoruz-javascript-odev-1
+Kodluyoruz *Javascript* Ödev-1
